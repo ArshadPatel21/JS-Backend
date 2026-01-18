@@ -1,0 +1,21 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "a basic project to deploy",
+  "keywords": [
+    "chai",
+    "node",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Arshad",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
